@@ -1,0 +1,24 @@
+
+
+.card {
+    border-radius: 10px;
+    border: none;
+}
+
+.card h2 {
+    font-weight: bold;
+    color: #333;
+}
+
+.btn-primary {
+    background-color: #2575fc;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #1e5ec2;
+}
+
+.text-danger {
+    font-size: 0.9rem;
+}
